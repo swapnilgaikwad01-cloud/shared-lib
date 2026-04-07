@@ -1,3 +1,3 @@
 def call() {
-    sh 'bash tests/test.sh'
+    sh 'bash scripts/test.sh'
 }
